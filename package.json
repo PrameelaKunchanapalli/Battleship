@@ -1,0 +1,23 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrameelaKunchanapalli/Battleship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrameelaKunchanapalli/Battleship/issues"
+  },
+  "homepage": "https://github.com/PrameelaKunchanapalli/Battleship#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
